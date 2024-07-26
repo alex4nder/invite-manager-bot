@@ -29,7 +29,6 @@ yarn install
 
 ### Usage
 
-- Replace ```https://your-server.com``` in ```bot.setWebHook(`https://your-server.com/bot${token}`);``` with your server url.
 - Start project:
    ```cmd
    yarn watch
